@@ -1,4 +1,4 @@
-## Hi there I am Belsabel Woldemichael 👋
+## Hi there 👋 I am Belsabel Woldemichael 
 
 ## About Me 👩🏽‍💻
 I am an enthusiastic and detail-oriented aspiring data scientist, data analyst, and web developer. 
