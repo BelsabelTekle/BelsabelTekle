@@ -3,7 +3,7 @@
 ## About Me 👩🏽‍💻
 I am an aspiring data scientist, data analyst, and web developer.
 
-🔍💻 Proficient in Python, data manipulation, machine learning, deep learning, and web development.
+🔍💻 Proficient in Python,SQL, data manipulation, machine learning, deep learning, and web development.
 
 🌐✨ Passionate about extracting insights from data and creating dynamic web solutions.
 
