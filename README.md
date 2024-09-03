@@ -1,9 +1,9 @@
 ## Hi there 👋 I am Belsabel Woldemichael 
 
 ## About Me 👩🏽‍💻
-I am an aspiring data scientist, data analyst, and web developer.
+I am an aspiring data scientist, data analyst, and software engineer.
 
-🔍 Skills: Python, SQL, Machine Learning, Deep Learning, Web Development
+🔍 Skills: Python, JavaScript, React, HTML, CSS, SQL, Machine Learning, Deep Learning
 
 🌟💻 Pursuing MS in Computer Science at San Francisco Bay University.
 
