@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Belsabel Woldemichael 
 
 ## About Me 👩🏽‍💻
-I am an aspiring data scientist, data analyst, and software engineer.
+I am an aspiring data scientist, data analyst, and Network engineer.
 
 🔍 Skills: Python, JavaScript, React, HTML, CSS, SQL, Machine Learning, Deep Learning
 
